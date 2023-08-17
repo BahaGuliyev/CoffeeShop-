@@ -1,0 +1,10 @@
+C:\Users\Nitro\source\repos\CoffeeShop POS\bin\Debug\CoffeeShop POS.exe.config
+C:\Users\Nitro\source\repos\CoffeeShop POS\bin\Debug\CoffeeShop POS.exe
+C:\Users\Nitro\source\repos\CoffeeShop POS\bin\Debug\CoffeeShop POS.pdb
+C:\Users\Nitro\source\repos\CoffeeShop POS\obj\Debug\CoffeeShop POS.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\CoffeeShop POS\obj\Debug\CoffeeShop_POS.Form1.resources
+C:\Users\Nitro\source\repos\CoffeeShop POS\obj\Debug\CoffeeShop_POS.Properties.Resources.resources
+C:\Users\Nitro\source\repos\CoffeeShop POS\obj\Debug\CoffeeShop POS.csproj.GenerateResource.cache
+C:\Users\Nitro\source\repos\CoffeeShop POS\obj\Debug\CoffeeShop POS.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\CoffeeShop POS\obj\Debug\CoffeeShop POS.exe
+C:\Users\Nitro\source\repos\CoffeeShop POS\obj\Debug\CoffeeShop POS.pdb
